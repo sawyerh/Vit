@@ -1,1 +1,3 @@
-Poppin the jQuery plugin cherry.
+Usage:
+
+$('#element').vit();
