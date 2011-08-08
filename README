@@ -1,3 +1,8 @@
 Usage:
 
 $('#element').vit();
+
+Options:
+
+parent: (int) The containers's height that you are centering your element in. Default = Element's parent height
+offset: (int) The amount to offset the vertical alignment by. Default = 0
